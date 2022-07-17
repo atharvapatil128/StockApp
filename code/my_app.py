@@ -1,4 +1,3 @@
-from re import S
 import pandas as pd
 import streamlit as st
 import yfinance as yf
