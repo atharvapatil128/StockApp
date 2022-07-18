@@ -5,3 +5,5 @@ This is a web app made in Python using Streamlit. The main functionality of this
 Modules used: **Streamlit, Yfinance, Cufflinks and Pandas**
 
 To run the app: **streamlit run my_app.py**
+
+You can now access the app using the following URL: https://atharvapatil128-stockapp-codemy-app-31i7vs.streamlitapp.com/
